@@ -1,0 +1,55 @@
+div h1 {
+  margin-top: 30px;
+}
+.btn-reject {
+  background-color: orange;
+  border-radius: 100px;
+  color: white;
+  font-size: 13px;
+  padding: 6px 10px;
+  margin-left: 5px;
+}
+.btn-delete {
+  background-color: red;
+  border-radius: 100px;
+  color: white;
+  font-size: 13px;
+  padding: 6px 10px;
+  margin-left: 5px;
+}
+.btn-approve {
+  background-color: #4caf50;
+  border-radius: 20px;
+  font-size: 13px;
+  padding: 6px 10px;
+  margin-left: 5px;
+}
+.btn-approve:hover,
+.btn-delete:hover {
+  background-color: #2576c2;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+thead {
+  background-color: #f2f2f2;
+}
+
+th,
+td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+th {
+  background-color: #4caf50;
+  color: white;
+}
+
+tbody tr:hover {
+  background-color: #f5f5f5;
+}

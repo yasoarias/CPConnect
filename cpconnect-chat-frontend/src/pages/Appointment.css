@@ -1,0 +1,8 @@
+.sayawsayaw {
+  background-image: url("../assets/cookysignup.gif");
+  height: 92vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow-x: hidden;
+}

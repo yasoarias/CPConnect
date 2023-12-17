@@ -1,0 +1,40 @@
+.nav-bg {
+  background-color: navy;
+}
+
+/* Navigation.css */
+
+/* Add this style for the text color */
+.nav-text-a {
+  color: white;
+}
+
+.nav-link,
+.nav-text,
+.nav-dropdown-item a,
+.nav-dropdown-toggle {
+  color: rgb(228, 136, 43) !important;
+}
+
+/* Optional: Add styles for the active state of the links */
+.nav-link.active,
+.nav-dropdown-item a.active {
+  background-color: #4a48ba;
+  color: yellow !important;
+  border-radius: 30px;
+}
+
+/* Optional: Add styles for the hover state of the links */
+.nav-link:hover,
+.nav-dropdown-item a:hover {
+  color: #e8e4e4 !important;
+  border-radius: 50%;
+}
+
+.nav-link-bold {
+  margin-right: 20px; /* Adjust spacing as needed */
+}
+
+.nav-link-chat {
+  margin-right: 20px; /* Adjust spacing as needed */
+}
